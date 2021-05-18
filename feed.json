@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://tamiltoddlers.github.io/feedback-and-suggestions.html",
+            "url": "https://tamiltoddlers.github.io/feedback-and-suggestions.html",
+            "title": "Feedback &amp; Suggestions",
+            "summary": "Feedback are integral part to develop oneself. We wil be happy if you acknowledge us with your feedback. Take&hellip;",
+            "content_html": "<p>Feedback are integral part to develop oneself. We wil be happy if you acknowledge us with your feedback. Take a minute and help us understand your needs better.</p>\n<p>Please let us know your suggestions by clicking the following link :</p>\n<p><a href=\"https://us2.list-manage.com/contact-form?u=b961576e8261d16da220822a7&amp;form_id=ed4ad1a89dd01e4cfe6ad63b411aa223\">CONTACT US</a></p>",
+            "author": {
+                "name": "SrideviG"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-18T15:31:18+05:30",
+            "date_modified": "2021-05-18T15:31:18+05:30"
+        },
+        {
             "id": "https://tamiltoddlers.github.io/disclaimer.html",
             "url": "https://tamiltoddlers.github.io/disclaimer.html",
             "title": "Disclaimer",
@@ -140,21 +154,6 @@
             ],
             "date_published": "2020-11-20T12:17:08+05:30",
             "date_modified": "2021-02-16T15:15:03+05:30"
-        },
-        {
-            "id": "https://tamiltoddlers.github.io/uyir-ezhuthukkal-bundle.html",
-            "url": "https://tamiltoddlers.github.io/uyir-ezhuthukkal-bundle.html",
-            "title": "Uyir Ezhuthukkal bundle",
-            "summary": "Happy to launch our worksheet bundle on \"Uyir ezhuthukkal\". Check out this video to know the content of the&hellip;",
-            "content_html": "<p>Happy to launch our worksheet bundle on \"Uyir ezhuthukkal\".</p>\n<p> </p>\n<p>Check out this video to know the content of the bundle: </p>\n<p><a href=\"https://youtu.be/ehQtvGzm1mo\">Uyir Ezhuthukkal Bundle DIGITAL</a></p>\n<p>Click the below link to make the payment now! (THIS IS A TEST LINK, PLEASE CHECK WITH <a href=\"mailto:tamiltoddlers@gmail.com\">tamiltoddlers@gmail.com</a> for PAYMENT! )</p>\n<p> </p>",
-            "image": "https://tamiltoddlers.github.io/media/posts/32/Colour-the-Uyir-eluthu.png",
-            "author": {
-                "name": "SrideviG"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-11-15T19:28:07+05:30",
-            "date_modified": "2021-01-01T22:52:55+05:30"
         }
     ]
 }
