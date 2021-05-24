@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://Tamiltoddlers/tamiltoddlers.github.io/sitemap.xml
+Sitemap: https://tamiltoddlers.github.io/tamiltoddlers.github.io/sitemap.xml
