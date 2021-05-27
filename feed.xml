@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-05-26T22:25:03+05:30</updated>
+    <updated>2021-05-27T11:24:09+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -14,10 +14,18 @@
         <author>
             <name>SrideviG</name>
         </author>
-        <link href="https://tamiltoddlers.github.io/tt-pages/lotw-uyir-ezhuthukkalor-tamil-vowels/index.html"/>
-        <id>https://tamiltoddlers.github.io/tt-pages/lotw-uyir-ezhuthukkalor-tamil-vowels/index.html</id>
+        <link href="https://tamiltoddlers.github.io/tt-pages/lotwuyir/index.html"/>
+        <id>https://tamiltoddlers.github.io/tt-pages/lotwuyir/index.html</id>
+            <category term="worksheetstamil"/>
+            <category term="freetamilworksheets"/>
+            <category term="UyirEzhuthukkal"/>
+            <category term="#tamilworksheets"/>
+            <category term="#schooltamilworksheets"/>
+            <category term="#letteroftheweektamil"/>
+            <category term="#letteroftheweek"/>
+            <category term="#karpomtamil"/>
 
-        <updated>2021-05-26T22:25:03+05:30</updated>
+        <updated>2021-05-27T11:24:09+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/57/Letter-of-the-week.png" alt="" />
