@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-08-23T21:11:02+05:30</updated>
+    <updated>2021-08-23T22:30:45+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -197,7 +197,6 @@
         </author>
         <link href="https://tamiltoddlers.github.io/tt-pages/tamil-grammar-2-singular-and-plural/index.html"/>
         <id>https://tamiltoddlers.github.io/tt-pages/tamil-grammar-2-singular-and-plural/index.html</id>
-            <category term="tamilplural"/>
             <category term="tamililakkanam"/>
             <category term="tamilgrammar"/>
             <category term="singularintamil"/>
@@ -208,7 +207,7 @@
             <category term="ilakkanam"/>
             <category term="grammar"/>
 
-        <updated>2021-08-23T21:10:37+05:30</updated>
+        <updated>2021-08-23T22:30:45+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/67/tamil-grammar-1.png" alt="" />
@@ -243,14 +242,10 @@
         <id>https://tamiltoddlers.github.io/tt-pages/3personsintamil/index.html</id>
             <category term="tamililakkanam"/>
             <category term="tamilgrammar"/>
-            <category term="otherprintables"/>
-            <category term="ilakkanam"/>
-            <category term="grammar"/>
-            <category term="freetamilworksheets"/>
             <category term="#tamilworksheets"/>
             <category term="#othertamilprintables"/>
 
-        <updated>2021-08-23T21:10:29+05:30</updated>
+        <updated>2021-08-23T22:30:00+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/65/tamil-grammar.png" alt="" />
