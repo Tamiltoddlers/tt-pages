@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-08-23T18:40:50+05:30</updated>
+    <updated>2021-08-23T21:11:02+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -55,19 +55,21 @@
         </content>
     </entry>
     <entry>
-        <title>Tamil Punctuations</title>
+        <title>Tamil Punctuations (Grammar #2)</title>
         <author>
             <name>SrideviG</name>
         </author>
         <link href="https://tamiltoddlers.github.io/tt-pages/tamil-punctuations/index.html"/>
         <id>https://tamiltoddlers.github.io/tt-pages/tamil-punctuations/index.html</id>
+            <category term="tamilpunctuations"/>
             <category term="tamililakkanam"/>
             <category term="tamilgrammar"/>
+            <category term="punctuations "/>
             <category term="ilakkanam"/>
             <category term="grammar"/>
             <category term="#misc"/>
 
-        <updated>2021-08-23T18:27:45+05:30</updated>
+        <updated>2021-08-23T21:11:02+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/68/tamil-grammar.png" alt="" />
@@ -206,7 +208,7 @@
             <category term="ilakkanam"/>
             <category term="grammar"/>
 
-        <updated>2021-08-23T18:31:45+05:30</updated>
+        <updated>2021-08-23T21:10:37+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/67/tamil-grammar-1.png" alt="" />
@@ -248,7 +250,7 @@
             <category term="#tamilworksheets"/>
             <category term="#othertamilprintables"/>
 
-        <updated>2021-06-21T19:21:07+05:30</updated>
+        <updated>2021-08-23T21:10:29+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/65/tamil-grammar.png" alt="" />
