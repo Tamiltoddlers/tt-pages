@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-08-28T20:16:51+05:30</updated>
+    <updated>2021-08-29T08:38:15+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -24,7 +24,7 @@
             <category term="#rewardstickers"/>
             <category term="#motivation"/>
 
-        <updated>2021-08-28T20:16:51+05:30</updated>
+        <updated>2021-08-29T08:38:15+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/71/Blue-Yellow-and-Red-Technology-Instagram-Post.png" alt="" />
@@ -44,9 +44,7 @@
 <p> The price of one sticker works out to the cost of a stamp! </p>
 <p class="align-center"><strong>BUY 108 STICKERS AT JUST Rs.199/- coming to your doorstep! </strong></p>
 <form>
-<p class="align-center">
 <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HqcyefVJla63ix" async=""> </script>
-</p>
 </form>
             ]]>
         </content>
