@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://tamiltoddlers.github.io/tt-pages/contact-us/index.html",
+            "url": "https://tamiltoddlers.github.io/tt-pages/contact-us/index.html",
+            "title": "Contact us ",
+            "summary": "For queries please write to us on tamiltoddlers@gmail.com Address: BDA Apartments, Bangalore, India.",
+            "content_html": "<p>For queries please write to us on <a href=\"mailto:tamiltoddlers@gmail.com\">tamiltoddlers@gmail.com</a></p>\n<p> </p>\n<p>Address: BDA Apartments,</p>\n<p>              Bangalore,</p>\n<p>              India.</p>",
+            "author": {
+                "name": "SrideviG"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-29T12:05:41+05:30",
+            "date_modified": "2021-11-29T12:05:41+05:30"
+        },
+        {
             "id": "https://tamiltoddlers.github.io/tt-pages/bilingual-fruits-flashcards/index.html",
             "url": "https://tamiltoddlers.github.io/tt-pages/bilingual-fruits-flashcards/index.html",
             "title": "Bilingual Fruits Flashcards",
@@ -212,30 +226,6 @@
             ],
             "date_published": "2021-06-13T19:50:16+05:30",
             "date_modified": "2021-06-19T08:12:49+05:30"
-        },
-        {
-            "id": "https://tamiltoddlers.github.io/tt-pages/tamilfruits/index.html",
-            "url": "https://tamiltoddlers.github.io/tt-pages/tamilfruits/index.html",
-            "title": "Fruits in Tamil",
-            "summary": "Fruits are colorful. They are sweet. They come in different shapes and sizes. It is very important for our children to know the names of the fruits ! Fruits contain many nutrients. What are the activities in which we can involve our children to teach&hellip;",
-            "content_html": "<p>Fruits are colorful. They are sweet. They come in different shapes and sizes. It is very important for our children to know the names of the fruits ! Fruits contain many nutrients. </p>\n<p>What are the activities in which we can involve our children to teach about fruits?</p>\n<ol>\n<li>Show them fruits flashcards and pick the real fruit.</li>\n<li>Take them to fruit shop and observe different color fruits</li>\n<li>Make fruit salad at home, provide an opportunity to your child to cut, peel and experience the fruits.</li>\n<li>Use the worksheet to teach them names of the fruits.</li>\n</ol>\n<p> It's so much fun to watch when children do the Pretend play as a fruit seller. </p>\n<p><strong>பழம் , பழம்....</strong></p>\n<p>பழம் வாங்கலயோ பழம்.....</p>\n<p>வாழைப்பழம், ஆரஞ்சு....</p>\n<p>In the mean time learning the Tamil name for all the fruits! </p>\n<p>What a fun way isn't it?! </p>\n<p>And here is a pdf for you to help in your learning journey :) </p>\n<h2> </h2>\n<h2 class=\"msg msg--highlight \"><a href=\"https://tamiltoddlers.github.io/tt-pages/media/files/Fruits.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Fruits in Tamil</a></h2>",
-            "image": "https://tamiltoddlers.github.io/tt-pages/media/posts/60/1.png",
-            "author": {
-                "name": "SrideviG"
-            },
-            "tags": [
-                   "பழங்கள்",
-                   "worksheetstamil",
-                   "worksheets",
-                   "preschooltamil",
-                   "fruitstamil ",
-                   "fruits",
-                   "#tamilworksheets",
-                   "#othertamilprintables",
-                   "#misc"
-            ],
-            "date_published": "2021-06-13T16:14:15+05:30",
-            "date_modified": "2021-06-15T10:47:24+05:30"
         }
     ]
 }

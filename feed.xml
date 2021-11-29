@@ -3,12 +3,36 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-11-25T22:24:18+05:30</updated>
+    <updated>2021-11-29T12:05:41+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
     <id>https://tamiltoddlers.github.io/tt-pages</id>
 
+    <entry>
+        <title>Contact us </title>
+        <author>
+            <name>SrideviG</name>
+        </author>
+        <link href="https://tamiltoddlers.github.io/tt-pages/contact-us/index.html"/>
+        <id>https://tamiltoddlers.github.io/tt-pages/contact-us/index.html</id>
+
+        <updated>2021-11-29T12:05:41+05:30</updated>
+            <summary>
+                <![CDATA[
+                    For queries please write to us on tamiltoddlers@gmail.com Address: BDA Apartments, Bangalore, India.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For queries please write to us on <a href="mailto:tamiltoddlers@gmail.com">tamiltoddlers@gmail.com</a></p>
+<p> </p>
+<p>Address: BDA Apartments,</p>
+<p>              Bangalore,</p>
+<p>              India.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bilingual Fruits Flashcards</title>
         <author>
@@ -654,53 +678,6 @@
 <p>Also there is a fun coloring Rhymes worksheet for your little ones.</p>
 <h2><a href="https://tamiltoddlers.github.io/tt-pages/media/files/tamil rhymes.pdf" target="_blank" rel="noopener noreferrer">Tamil Rhymes coloring Sheet</a></h2>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fruits in Tamil</title>
-        <author>
-            <name>SrideviG</name>
-        </author>
-        <link href="https://tamiltoddlers.github.io/tt-pages/tamilfruits/index.html"/>
-        <id>https://tamiltoddlers.github.io/tt-pages/tamilfruits/index.html</id>
-            <category term="பழங்கள்"/>
-            <category term="worksheetstamil"/>
-            <category term="worksheets"/>
-            <category term="preschooltamil"/>
-            <category term="fruitstamil "/>
-            <category term="fruits"/>
-            <category term="#tamilworksheets"/>
-            <category term="#othertamilprintables"/>
-            <category term="#misc"/>
-
-        <updated>2021-06-15T10:47:24+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/60/1.png" alt="" />
-                    Fruits are colorful. They are sweet. They come in different shapes and sizes. It is very important for our children to know the names of the fruits ! Fruits contain many nutrients. What are the activities in which we can involve our children to teach&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/60/1.png" alt="" />
-                <p>Fruits are colorful. They are sweet. They come in different shapes and sizes. It is very important for our children to know the names of the fruits ! Fruits contain many nutrients. </p>
-<p>What are the activities in which we can involve our children to teach about fruits?</p>
-<ol>
-<li>Show them fruits flashcards and pick the real fruit.</li>
-<li>Take them to fruit shop and observe different color fruits</li>
-<li>Make fruit salad at home, provide an opportunity to your child to cut, peel and experience the fruits.</li>
-<li>Use the worksheet to teach them names of the fruits.</li>
-</ol>
-<p> It's so much fun to watch when children do the Pretend play as a fruit seller. </p>
-<p><strong>பழம் , பழம்....</strong></p>
-<p>பழம் வாங்கலயோ பழம்.....</p>
-<p>வாழைப்பழம், ஆரஞ்சு....</p>
-<p>In the mean time learning the Tamil name for all the fruits! </p>
-<p>What a fun way isn't it?! </p>
-<p>And here is a pdf for you to help in your learning journey :) </p>
-<h2> </h2>
-<h2 class="msg msg--highlight "><a href="https://tamiltoddlers.github.io/tt-pages/media/files/Fruits.pdf" target="_blank" rel="noopener noreferrer">Fruits in Tamil</a></h2>
             ]]>
         </content>
     </entry>
