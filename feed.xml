@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-11-29T12:05:41+05:30</updated>
+    <updated>2021-11-29T12:26:41+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -48,7 +48,7 @@
             <category term="#bilngualflashcards"/>
             <category term="#bilingual"/>
 
-        <updated>2021-11-25T22:06:01+05:30</updated>
+        <updated>2021-11-29T12:26:07+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/72/IMG_20211027_130438-01.jpeg" alt="" />
@@ -74,6 +74,7 @@
 <p>Comes with a<u> storage pouch.</u></p>
 <p>Made with so much care for the little ones to learn it :)</p>
 <p>Thickness : 350 GSM</p>
+<p>Investment : Rs.349/- per set.</p>
 <p>All the cards are round corner for the children to handle them with ease. </p>
 <p> </p>
 <form>
@@ -84,6 +85,7 @@
 <div id="paypal-button-container"> </div>
 </div>
 </div>
+<p>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&amp;enable-funding=venmo&amp;currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
     function initPayPalButton() {
@@ -125,6 +127,7 @@
     }
     initPayPalButton();
   </script>
+</p>
             ]]>
         </content>
     </entry>
@@ -143,7 +146,7 @@
             <category term="#rewardstickers"/>
             <category term="#motivation"/>
 
-        <updated>2021-11-25T22:24:18+05:30</updated>
+        <updated>2021-11-29T12:26:41+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/71/Blue-Yellow-and-Red-Technology-Instagram-Post.png" alt="" />
@@ -161,10 +164,10 @@
 <p>If you are outside India and looking for our products, send a mail to <a href="mailto:tamiltoddlers@gmail.com">tamiltoddlers@gmail.com</a> . </p>
 <p>We have served customers abroad as well ! </p>
 <p> The price of one sticker works out to the cost of a stamp! </p>
-<p><strong>BUY 108 STICKERS AT JUST Rs.199/- coming to your doorstep! </strong></p>
-<form>
+<p><strong>Investment :  108 STICKERS AT JUST Rs.199/-</strong></p>
+<p>
 <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HqcyefVJla63ix" async=""> </script>
-</form>
+</p>
             ]]>
         </content>
     </entry>
