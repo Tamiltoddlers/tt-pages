@@ -3,7 +3,7 @@
     <title>Tamiltoddlers</title>
     <link href="https://tamiltoddlers.github.io/tt-pages/feed.xml" rel="self" />
     <link href="https://tamiltoddlers.github.io/tt-pages" />
-    <updated>2021-11-30T16:48:40+05:30</updated>
+    <updated>2021-12-06T23:32:48+05:30</updated>
     <author>
         <name>SrideviG</name>
     </author>
@@ -48,11 +48,11 @@
             <category term="#bilngualflashcards"/>
             <category term="#bilingual"/>
 
-        <updated>2021-11-29T12:26:07+05:30</updated>
+        <updated>2021-12-06T23:32:48+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/72/IMG_20211027_130438-01.jpeg" alt="" />
-                     Tamiltoddlers are super happy to announce our next product. It's all about FRUITS!! When the child moves on to solids , their relationship with fruit begins. What a great journey for the child to connect with mother nature, isn't it ? As they grow&hellip;
+                     Tamiltoddlers are super happy to announce our next product. It's all about FRUITS!! When the child moves on to solids , their relationship with fruit begins. What a great journey for the child to connect with mother nature, isn't&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -80,54 +80,6 @@
 <form>
 <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IPtiF3nhzWydrP" async=""> </script>
 </form>
-<div id="smart-button-container">
-<div style="text-align: center;">
-<div id="paypal-button-container"> </div>
-</div>
-</div>
-<p>
-<script src="https://www.paypal.com/sdk/js?client-id=sb&amp;enable-funding=venmo&amp;currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-    function initPayPalButton() {
-      paypal.Buttons({
-        style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
-
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Bilingual Fruits Flashcards","amount":{"currency_code":"USD","value":10,"breakdown":{"item_total":{"currency_code":"USD","value":7},"shipping":{"currency_code":"USD","value":3},"tax_total":{"currency_code":"USD","value":0}}}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-          return actions.order.capture().then(function(orderData) {
-            
-            // Full available details
-            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-
-            // Show a success message within this page, e.g.
-            const element = document.getElementById('paypal-button-container');
-            element.innerHTML = '';
-            element.innerHTML = '<h3>Thank you for your payment!</h3>';
-
-            // Or go to another URL:  actions.redirect('thank_you.html');
-            
-          });
-        },
-
-        onError: function(err) {
-          console.log(err);
-        }
-      }).render('#paypal-button-container');
-    }
-    initPayPalButton();
-  </script>
-</p>
             ]]>
         </content>
     </entry>
@@ -150,7 +102,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/71/Blue-Yellow-and-Red-Technology-Instagram-Post.png" alt="" />
-                    Tamil Reward stickers are a unique product for children who love Reward stickers. This can be used as a tool to motivate the child to learn. Reward charts can be incorporated as a way to positively reinforce the child's behavior. For the reward charts to&hellip;
+                    Tamil Reward stickers are a unique product for children who love Reward stickers. This can be used as a tool to motivate the child to learn. Reward charts can be incorporated as a way to positively reinforce the child's behavior.
                 ]]>
             </summary>
         <content type="html">
@@ -187,7 +139,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/69/Motivational-Sunflower-Instagram-Post.png" alt="" />
-                    குழந்தைகள் இனிப்பை மிகவும் விரும்புவார்கள். அந்த இனிமையை சற்றும் குறைக்காமல் தருவது நம் தாய்மொழியான "தமிழ்" என்றால் அது மிகையாகாது. த- வல்லினம் மி- மெல்லினம் ழ்- இடையினம் பாட்டுக்கொரு பாரதி புலவர், "யாமறிந்த மொழிகளிலே தமிழ் மொழிப்போல் இனிமையான மொழி எங்கும் காணேம்" என்றும் "சொல்லில் உயர்வு தமிழ்ச் சொல்லே அதைத் தொழுது படித்திடடி பாப்பா" என்றும் பாடினார். பாரதியாரை தன்&hellip;
+                    குழந்தைகள் இனிப்பை மிகவும் விரும்புவார்கள். அந்த இனிமையை சற்றும் குறைக்காமல் தருவது நம் தாய்மொழியான "தமிழ்" என்றால் அது மிகையாகாது. த- வல்லினம் மி- மெல்லினம் ழ்- இடையினம் பாட்டுக்கொரு பாரதி புலவர், "யாமறிந்த மொழிகளிலே தமிழ் மொழிப்போல் இனிமையான மொழி எங்கும் காணேம்" என்றும் "சொல்லில் உயர்வு தமிழ்ச் சொல்லே அதைத் தொழுது படித்திடடி&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -235,7 +187,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/68/tamil-grammar.png" alt="" />
-                     காற்புள்ளி (Karpulli) ஒரு தொடரில் பல பொருள்களை அடுககி வரும்போது குறிககப்படுவது. எ.கா :மா,பலா,வாழை ஆகியவற்றை முக்கனி என்பர். அரைப்புள்ளி (Araipulli) ஓர் எழுவாய், பல பயனிைலைகளைப் பெற்று வரும்போது, ஒவ்வொரு பயனிைலயின் இறுதியிலும் குறிககப்படுவது. எ. கா: காளையின் கொம்பை பிடித்தல் ஆண்மை; வாலைப் பிடித்தல் தாழ்மை. முற்றுப்புள்ளி (Mutrupulli) ஒரு தொடர் முடிவு பெற்றதனை உணர்ததுவதற்காக குறிப்பிடுவது. எ.கா:&hellip;
+                     காற்புள்ளி (Karpulli) ஒரு தொடரில் பல பொருள்களை அடுககி வரும்போது குறிககப்படுவது. எ.கா :மா,பலா,வாழை ஆகியவற்றை முக்கனி என்பர். அரைப்புள்ளி (Araipulli) ஓர் எழுவாய், பல பயனிைலைகளைப் பெற்று வரும்போது, ஒவ்வொரு பயனிைலயின் இறுதியிலும் குறிககப்படுவது. எ. கா: காளையின் கொம்பை பிடித்தல் ஆண்மை; வாலைப் பிடித்தல் தாழ்மை. முற்றுப்புள்ளி (Mutrupulli) ஒரு தொடர்&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -373,7 +325,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/67/tamil-grammar-1.png" alt="" />
-                    Singular is "Orumai" and Plural is "Panmai". ஒருமை (Orumai): ஒன்றைக்குறிப்பது அல்லது ஒரு பொருளை குறிப்பது ஒருமை எனப்படும். எ.கா: மயில், புலி, சிங்கம், ஆண், நாற்காலி, பல். பன்மை (Panmai): ஒன்றல்லாத பலவற்றைக் குறிப்பது பன்மை எனப்படும். பொதுவாக நம் தமிழில் "-கள்" என்ற விகுதியை சேர்த்தால் நமக்கு எளிமையாக இருக்கும். எனினும் பல இடங்களில் நாம் "-ற்கள்" , "-ங்கள்" போன்றவற்றை சேர்ப்போம்.
+                    Singular is "Orumai" and Plural is "Panmai". ஒருமை (Orumai): ஒன்றைக்குறிப்பது அல்லது ஒரு பொருளை குறிப்பது ஒருமை எனப்படும். எ.கா: மயில், புலி, சிங்கம், ஆண், நாற்காலி, பல். பன்மை (Panmai): ஒன்றல்லாத பலவற்றைக் குறிப்பது பன்மை எனப்படும். பொதுவாக நம் தமிழில் "-கள்" என்ற விகுதியை சேர்த்தால் நமக்கு எளிமையாக இருக்கும். எனினும் பல இடங்களில்&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -411,7 +363,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/65/tamil-grammar.png" alt="" />
-                    This portion of Tamil grammar is just like the one we learn in English as "persons". First, second, and third person are ways of describing points of view. This also introduces us to another concept Singular &amp; Plural which is Orumai &amp; Panmai. We have&hellip;
+                    This portion of Tamil grammar is just like the one we learn in English as "persons". First, second, and third person are ways of describing points of view. This also introduces us to another concept Singular &amp; Plural which is&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -531,7 +483,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/64/www.tamiltoddlers.com-1.png" alt="" />
-                    குடும்பம் என்னும் தோட்டத்தின் தலைவனாய் இருந்து நம்மை தலைவியின் துணையாலே தாங்குபவர் எல்லாம் நாம் அறிந்திடவும் ஏற்றம் என்றும் பெற்றிடவும் அல்லும் பகலும் உழைத்திடுவார் கலைகள் பலவும் நாம் கற்க விலைகள் தந்து விவேகமாய் விரும்பி வளர்க்கும் வித்தகராகம் எத்துணை இடர்கள் வந்தபோதும் அத்தனை துன்பமும் வென்றிட்டு உவகை தந்திடும் உத்தமராம் மகனோ மகளோ பேதமில்லை மகிழ்ச்சி ஒன்றே இலக்காக மனமுவந்து உழைத்திடும்&hellip;
+                    குடும்பம் என்னும் தோட்டத்தின் தலைவனாய் இருந்து நம்மை தலைவியின் துணையாலே தாங்குபவர் எல்லாம் நாம் அறிந்திடவும் ஏற்றம் என்றும் பெற்றிடவும் அல்லும் பகலும் உழைத்திடுவார் கலைகள் பலவும் நாம் கற்க விலைகள் தந்து விவேகமாய் விரும்பி வளர்க்கும் வித்தகராகம் எத்துணை இடர்கள் வந்தபோதும் அத்தனை துன்பமும் வென்றிட்டு உவகை தந்திடும் உத்தமராம் மகனோ மகளோ பேதமில்லை&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -655,7 +607,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tamiltoddlers.github.io/tt-pages/media/posts/61/Tamil-rhymes-8.png" alt="" />
-                    Singing nursery rhymes and songs to children as young as babies can help develop their language and communication skills from an early age. We do have so many ways to make it fun! Using musical instruments! Creating the experience for the children to enjoy the&hellip;
+                    Singing nursery rhymes and songs to children as young as babies can help develop their language and communication skills from an early age. We do have so many ways to make it fun! Using musical instruments! Creating the experience for&hellip;
                 ]]>
             </summary>
         <content type="html">
